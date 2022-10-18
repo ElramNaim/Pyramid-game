@@ -10,3 +10,4 @@ The rules:
 3. If there are more than 4 yellow cells in a row, grill the whole row again.
 
 <hope you enjoy!>
+*use only pygame and randome Libraries.*
