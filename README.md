@@ -2,7 +2,7 @@
 The pyramid game is a game that runs alone.
 In the center of the game is a matrix inside which is a pyramid with three colors - blue, yellow and pink.
 At the start of the game, each cell in the pyramid is randomly initialized to one of the colors.
-In each round of the game, in each cell that does not comply with the following rules, a new cell is grilled in its place.
+In each round of the game, in each cell that does not comply with the following rules, a new cell is randomly chosen in its place.
 
 The rules:
 1. The blue cell cannot be within the boundaries of the pyramid. That is, in each of the three outer ribs - not only at the vertices (if there is a blue cell, grill a new cell in its place).
